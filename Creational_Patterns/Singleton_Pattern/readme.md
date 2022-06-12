@@ -19,5 +19,5 @@ Function that creates an object and return object's instance.
 Example of static factory method: java.lang.Runtime.   
 You can't use **new Runtime()**. But you can use Runtime.getRuntime().
 
-> Design:
+## Design:
 <img src="https://github.com/pritul2/Design-Patterns-Implementation/blob/creational/singleton/Creational_Patterns/Singleton_Pattern/singleton_design.png" width="500"/>
