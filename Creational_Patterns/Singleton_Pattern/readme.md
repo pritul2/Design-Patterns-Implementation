@@ -18,4 +18,4 @@ Example of static factory method: java.lang.Runtime.
 You can't use **new Runtime()**. But you can use Runtime.getRuntime().
 
 > Design:
-<img src="Creational_Patterns/Singleton_Pattern/singleton_design.png" width="128"/>
+<img src="https://github.com/pritul2/Design-Patterns-Implementation/blob/singleton_implementation/Creational_Patterns/Singleton_Pattern/singleton_design.png?raw=true" width="128"/>
