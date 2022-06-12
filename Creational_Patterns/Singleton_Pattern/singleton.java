@@ -6,7 +6,7 @@ class Printer{
 
 
     //A fixed static printer object which is returned on demand
-    // You can also initialize it with Null first and use if-else in Factory method
+    // You can also initialize it with Null first and use if-else in Factory method. That is called the lazy creation and it is better.
     public static Printer p = new Printer();
 
 
