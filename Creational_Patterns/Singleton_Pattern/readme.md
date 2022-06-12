@@ -16,3 +16,6 @@ If a constructor is private, its object can be created from same class only. Ano
 Function that creates an object and return object's instance.  
 Example of static factory method: java.lang.Runtime.   
 You can't use **new Runtime()**. But you can use Runtime.getRuntime().
+
+> Design:
+<img src="Creational_Patterns/Singleton_Pattern/singleton_design.png" width="128"/>
