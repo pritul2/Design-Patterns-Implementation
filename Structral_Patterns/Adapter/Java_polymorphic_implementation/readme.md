@@ -9,3 +9,7 @@
 # Advantages
 
 This is improving the code readibility and easy to manage unlike defining abstract classes or to give implementation in all classes. 
+
+# Class UML Diagram
+
+<img src="https://github.com/pritul2/Design-Patterns-Implementation/blob/structural/adapter/Structral_Patterns/Adapter/Java_polymorphic_implementation/ClassUML_Diagram/ClassAdapter.png">
