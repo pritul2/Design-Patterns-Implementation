@@ -10,3 +10,7 @@ Thus, we need an adapter class that can translate the client request into approp
 1. A server class (WebServer.java) that is a part of some external system (Adaptee). It can take the json object and return True if processing is done else return False.   
 2. A client class (Client.java) that is directly calling an interface (WebRequester.java), which is target class, to process his query.   
 3. An adapter class (WebAdapter.java) that is translating the request object into the Json format. 
+
+# Class UML Diagram
+
+<img src="https://github.com/pritul2/Design-Patterns-Implementation/blob/structural/adapter/Structral_Patterns/Adapter/Java_adapter_oop/ClassUML_Diagram/AdapterClass.png">
